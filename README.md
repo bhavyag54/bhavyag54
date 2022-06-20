@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhavya Goyal</h1>
-<h3 align="center">A passionate React Js developer and Ethical hacker.</h3>
+<h3 align="center">A passionate Full Stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavyag54&label=Profile%20views&color=0e75b6&style=flat" alt="bhavyag54" /> </p>
 
-- 🔭 I’m currently working on **improving my pentesting skills.**
+- 🔭 I’m currently working on **DSA and CP.**
 
 - 👯 I’m looking to collaborate on **some open source contribution**
 
