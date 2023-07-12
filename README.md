@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/bhavyag54?tab=repositories](https://github.com/bhavyag54?tab=repositories)
 
 - 📫 How to reach me **Bhavyagoyal54@gmail.com**
-- 
+  
 - 📄 Here is my CV [here](https://drive.google.com/file/d/1Fv_57Nfx87jyWG1s9qGBx7HzXLj_uYmo/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
